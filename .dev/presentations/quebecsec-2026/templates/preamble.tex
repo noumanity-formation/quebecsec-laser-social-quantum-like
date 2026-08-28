@@ -1,0 +1,30 @@
+\documentclass[aspectratio=169]{beamer}
+\usepackage{fontspec}
+\usepackage[french]{babel}
+\usepackage{csquotes}
+\usepackage{graphicx}
+\usepackage{tikz}
+\usepackage{xcolor}
+\usepackage{colortbl}
+\usepackage{listings}
+\usepackage{microtype}
+\usepackage{booktabs}
+\usepackage{qrcode}
+\usepackage{multicol}
+
+% Macro pour les listes compactes (produite par le renderer Lua)
+\providecommand{\tightlist}{\setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+% Police emoji (repli silencieux si absente) - utilisee par render_slide.lua
+% pour envelopper automatiquement les emojis rencontres dans le contenu (ex. 🐧).
+\IfFontExistsTF{Noto Color Emoji}{%
+  \newfontfamily\NouEmojiFont{Noto Color Emoji}[Renderer=Harfbuzz]%
+}{%
+  \newcommand\NouEmojiFont{}%
+}
+
+% Options de theme generees depuis src/theme.yaml
+\InputIfFileExists{theme.generated.tex}{}{}
+
+% Theme Noumanity (etend metropolis)
+\usetheme{Noumanity}

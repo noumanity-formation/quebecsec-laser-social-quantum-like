@@ -1,0 +1,36 @@
+name: plain
+description: "Slide standard avec titre et contenu Markdown libre"
+fields:
+  content:
+    required:
+      - name: title
+        description: "Titre de la slide"
+        type: string
+    optional:
+      - name: section
+        description: "Titre de section affiché en bas à droite (pied de page)"
+        type: string
+      - name: image
+        description: "Image ou diagramme optionnel affiché sous le contenu, borné en hauteur (0.42 paperheight) pour ne pas déborder"
+        type: path
+      - name: caption
+        description: "Légende optionnelle affichée sous l'image"
+        type: string
+      - name: background
+        description: "Chemin vers l'image de fond (SVG, PNG, JPEG)"
+        type: path
+  params:
+    optional: []
+example: |
+  ---
+  diapo:
+    model: plain
+  content:
+    title: Ma slide
+  ---
+
+  Contenu Markdown de la slide.
+
+  - Item 1
+  - Item 2
+    - Sous-item

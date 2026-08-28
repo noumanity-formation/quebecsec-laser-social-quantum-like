@@ -124,3 +124,61 @@ Proposer une modélisation qui corresponde à ces hypothèses et proposer des qu
 
 Formuler le tout en terme d'effet de laser social
 
+### 10. [analyse] précisions sur le mécanisme proposé
+
+Nous proposons un mécanisme de contrôle par laser social "multi-couleur".
+
+Le Québec est actuellement sur une trajectoire de "changement de régime" avec beaucoup de frustration et une volonté de ne pas revoir la CAQ au pouvoir. 
+
+On interprète cela comme une situation où chaque champ est très sensible à ses "enjeux existentiels".
+
+Nous proposons une proposition ambigue: nous nous dirigeons dans un mur, il faut absolument tenter autre chose.
+
+De tel sorte que la question de l'urne précise sera choisie par chaque champ en fonction de sa priorité.
+
+Et nous proposons un programme politique qui, pour chaque champs, offre des éléments qui entre en résonance avec ses enjeux prioritaires.
+
+Il n'y a donc pas une unique question de l'urne effective, mais une multiplicité: d'où l'appellation du mécanisme "multi-couleur".
+
+Présenter ce mécanisme et dire, pour chaque champ, quel devraient être les propositions politiques.
+
+### 11. [analyse] modélisation numérique
+
+faire une recherche préliminaire dans la littérature de sociophysique pour trouver des travaux similaires ou dont on pourrait s'inspirer.
+
+Proposer un modèle numérique simulant les élections en fonction des champs. Utiliser le formalisme quantique: fonction d'onde, hamiltonien et observable.
+
+Définir l'hamiltonien et, pour chaque terme, proposer des paramètres.
+
+Définir la fonction d'onde et, pour chaque champ, proposer des paramètres.
+
+Utiliser une propagation estimée à temps court (décomposable en un produit de propagateur pour chaque contexte). Dire comment faire une transformation de contexte pour appliquer le propagateur uniquement sur une composante de la fonction d'onde correspondante.
+
+Poser un mécanisme de pompage par interraction multi-couleur où une interaction en résonnance est appliqué sur chaque champ.
+
+Comment mesure-t-on le vote?
+
+### 12. [plan] planifier le codage du programme
+
+Faire un plan d'architechture du programme de dynamique numérique codé en rust et déposer les documents de design dans @.dev/architecture (diagrammes d'achitecture, spécification, requis fonctionnels et non fonctionnels.)
+
+
+Planifier (PLN) le codage de ce programme.
+
+
+### 13. [rapport] Produire un rapport scientifique préliminaire au calcul qui explique la démarche et cherche à convaincre de l'intérêt du problème et de la faisabilité de la chose
+
+Écrire sous la forme d'un article scientifique.
+
+
+### 14. [présentation] produire une présentation de type "power point" explicant l'attaque à un auditoire de cybersécurité
+
+Expliquer les bases du laser social et des champs bourdieusiens
+
+Montrer comment on va faire les calculs
+
+Prendre 2 'stratégie d'attaque' avec 2 groupes de questions de l'urne menant à 2 résultats différents.
+
+Montrer des résultats inventés pour chacun.
+
+Présenter des conclusions inventés en terme de: considérations de sécurité,  résilience du système démocratique et faisabilité de l'attaque ( + ce que ça prendrait en pratique pour pomper les différents champs)

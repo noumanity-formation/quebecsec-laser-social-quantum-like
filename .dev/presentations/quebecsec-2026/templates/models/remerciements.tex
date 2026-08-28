@@ -1,0 +1,48 @@
+% Modele : remerciements - diapositive de cloture sans titre
+% Champs optionnels : message_tex, focus_tex, qr_url, qr_image_path, qr_label_tex, background_block
+\begin{frame}[plain,t]
+<%- background_block %>
+
+\vspace{0.6cm}
+{\fontsize{19}{19}\selectfont\color{NoumanityBlack} <%- message_tex %>\par}
+
+\begin{tikzpicture}[remember picture, overlay]
+  \node[anchor=center] at (current page.center) {%
+    {\NouTitleFont\fontsize{52}{54}\selectfont\color{NoumanityOrange} <%- focus_tex %>}};
+\end{tikzpicture}
+
+<% if qr_image_path and qr_image_path ~= "" then %>
+\begin{tikzpicture}[remember picture, overlay]
+  \node[anchor=south east, inner sep=0pt, xshift=-1.4cm, yshift=0.4cm]
+    at (current page.south east) {%
+      \begin{minipage}{4cm}
+        \centering
+        \includegraphics[height=1.9cm]{<%- qr_image_path %>}\par
+        \vspace{0.3em}
+        {\tiny\ttfamily\color{NoumanityBlack!70} <%- qr_label_tex %>}
+      \end{minipage}};
+\end{tikzpicture}
+<% elseif qr_url and qr_url ~= "" then %>
+\begin{tikzpicture}[remember picture, overlay]
+  \node[anchor=south east, inner sep=0pt, xshift=-1.4cm, yshift=0.4cm]
+    at (current page.south east) {%
+      \begin{minipage}{4cm}
+        \centering
+        \qrcode[height=1.9cm]{<%- qr_url %>}\par
+        \vspace{0.3em}
+        {\tiny\ttfamily\color{NoumanityBlack!70} <%- qr_label_tex %>}
+      \end{minipage}};
+\end{tikzpicture}
+<% end %>
+<% if brand_logo_path and brand_logo_path ~= "" then %>
+\begin{tikzpicture}[remember picture, overlay]
+  \node[anchor=south west, inner sep=0pt, xshift=1.4cm, yshift=0.4cm]
+    at (current page.south west) {%
+      \begin{minipage}{6cm}
+        \raggedright
+        \includegraphics[height=1.0cm]{<%- brand_logo_path %>}\par
+        <% if brand_tagline_tex and brand_tagline_tex ~= "" then %>\vspace{0.15em}{\scriptsize\color{NoumanityBlack!70} <%- brand_tagline_tex %>}<% end %>
+      \end{minipage}};
+\end{tikzpicture}
+<% end %>
+\end{frame}

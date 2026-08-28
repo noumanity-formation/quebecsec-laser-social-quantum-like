@@ -22,3 +22,7 @@ installe:
     namespace: noumanity.com/clia
     nom: analyse
     version: 0.1.0
+  - type: ressource
+    namespace: noumanity.com/clia
+    nom: plan
+    version: 0.1.0

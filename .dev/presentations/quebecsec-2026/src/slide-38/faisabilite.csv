@@ -1,0 +1,8 @@
+Champ,Cadence,Coût,Détectabilité,Verrou
+Numérique,10 / jour,très faible,faible,aucun contrôle de la portée
+Journalistique,2 / jour,faible,très élevée,c'est leur métier
+Économique,"0,2 / jour",élevé,moyenne,exige de la crédibilité
+Syndical,"0,15 / jour",moyen,moyenne,seuil le plus bas — réseau dense
+Bureaucratique,"0,07 / jour",moyen,faible,"viser la strate, pas l'effectif"
+Académique,"0,03 / jour",faible,faible,cadence lente — commencer très tôt
+Juridique,"0,01 / jour",—,—,quasi impompable — mais arbitral
