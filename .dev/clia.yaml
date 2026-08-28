@@ -1,0 +1,20 @@
+# La carte d'identité de ce dépôt clia.
+#
+# Le namespace dérive du couple (publisher|user)/repo_name. Il désigne la
+# provenance des ressources de ce dépôt, et rien d'autre : une catégorie
+# sous _ressources/ n'en est pas un.
+
+namespace: <publisher>/quebecsec-social-laser-hack
+version: 0.1.0
+maturity: unstable
+generation: 1
+
+installe:
+  - type: harness
+    namespace: noumanity.com/clia
+    nom: harness-ia
+    version: 0.1.0
+  - type: ressource
+    namespace: noumanity.com/clia
+    nom: fondation
+    version: 0.1.0
