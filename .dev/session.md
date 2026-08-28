@@ -56,3 +56,17 @@ Produire des recherches identiques à la tâche 1 pour les sujets suivants:
 - social hacking
 - théorie du contrôle (physique)
 - théorie du du contrôle optimal (physique)
+
+### 3. [recherche] État des lieux
+
+Faire une recherche sur l'histoire et la sociologie québécoise
+
+### 4. [recherche] État des lieux
+
+Faire une recherche sur l'histoire de la politique québécoise.
+
+Quels ont été les enjeux électoraux dans le passé?
+Quels ont été les propositions?
+Qui a gagné et pourquoi?
+
+Couvrir le territoire du Québec en prenant en compte tous les palliers gouvernementaux: fédéral, provincial et municipal
