@@ -1,15 +1,15 @@
-# QuébecSec Spécial Élection: la démocratie québécoise pourrait-elle résister à une attaque de "laser social multi-couleurs" ?
+# La démocratie québécoise pourrait-elle résister à une attaque de "laser social multi-couleurs" ?
 
 Présentation préparée pour les soirées **QuébecSec**, édition du 24 septembre 2026, à Québec.
 <!-- À COMPLÉTER : lien vers la page de l'événement -->
 
 ## Résumé
 
-Profitons de cette période électorale pour évaluer la robustesse du système électorale québécois et demandons-nous: est-il possible de hacker une élection? Et, si oui, comment faire pour y parvenir? 
+Est-il possible de hacker une élection? Et, si oui, comment faire pour y parvenir? Est-ce que le système électoral québécois est sensible à une attaque de ce type?
 
 Nous aborderons d'abord les techniques standards de hacking social qui exploitent la plus grande faille de vos systèmes et organisations: l'humain. Puis, nous soulèverons la question de l'ingérence étrangère et des opérations d'influence de masse.
 
-Et, finalement, nous tenterons d'évaluer la faisabilité de perturber les élections québécoises par un scénario d'attaque exotique basé sur le mécanisme quantum-like du "Laser Social" imaginé par le mathématicien russe Andrei Khrennikov.
+Le coeur de la présentation portera sur un scénario d'attaque qui combine simultanément les 2 niveaux d'analyse: la composante individuelle et les dynamiques de groupe. Nous adapterons le modèle quantum-like de laser social du mathématicien russo-suédois Andrei Khrennikov afin de prendre en compte un découpage sociologique du Québec et les principaux partis politiques provinciaux. Nous évaluerons la possibilité d'influencer significativement le résultat du vote avec un laser social "multi-couleurs", c'est-à-dire en sélectionnant une question de l'urne assez vague pour entrer en résonance avec l'énergie de pompage de plusieurs groupes identitaires.
 
 ## Auteur
 
@@ -23,7 +23,7 @@ Depuis septembre 2016, Jérémy est consultant TI **spécialiste Linux**, infras
 
 En décembre 2021, Jérémy a fondé noumanity, une compagnie qui se consacre à la recherche DeepTech.
 
-## noumanity
+## Studio DeepTech noumanity
 
 <img src="https://raw.githubusercontent.com/noumanity/imagen/refs/heads/main/assets/logo/logo%20noumanity-color2.png" width="200" />
 
@@ -35,11 +35,11 @@ Groupe Innovation Numanity inc. ou, plus simplement, **noumanity** est un Studio
 
 Via des collaborations multi-disciplinaires, **noumanity** participe à créer de nouvelles connaissances et à utiliser le savoir pour créer des technologies libres et ouvertes pour tous ceux et celles qui ont à coeur le bien de l'humanité.
 
-Les domaines de recherche Deeptech **noumanity** portent notamment sur:
+Les domaines de recherche DeepTech **noumanity** portent notamment sur:
 
-- les infrastructures souveraines résitientes et décentralisée. Notamment en participant au co-développement d'une plateforme en Santé Numérique au Cameroun avec l'université de Montréal, l'Institut Supérieur de la Recherche Scientifique et Médicale (Yaoundé) et NationTech (Wendake);
-- les technologies vertes: recyclage d'énergie résiduel des datacenters décentralisées et valorisation hybride de la bio-masse forestière à faible valeur commerciale ;
-- les usages de l'Intelligence Artificielle en recherche appliquées ;
+- les infrastructures souveraines résilientes et décentralisées. Notamment en participant au co-développement d'une plateforme en Santé Numérique au Cameroun avec l'Université de Montréal, l'Institut Supérieur de la Recherche Scientifique et Médicale (Yaoundé) et NationTech (Wendake);
+- les technologies vertes: recyclage d'énergie résiduelle des datacenters décentralisés, IA locale sobre en énergie et valorisation hybride de la bio-masse forestière à faible valeur commerciale ;
+- les usages de l'Intelligence Artificielle en recherche appliquée ;
 - recherche fondamentale en Intelligence Quantique (application des théories quantum-like de Khrennikov pour le développement de méthodes analogues à l'IA nativement sur des devices quantiques).
 
 
