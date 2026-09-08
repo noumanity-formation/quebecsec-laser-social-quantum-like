@@ -1,0 +1,45 @@
+# QuébecSec Spécial Élection: la démocratie québécoise pourrait-elle résister à une attaque de "laser social multi-couleurs" ?
+
+Présentation préparée pour les soirées **QuébecSec**, édition du 24 septembre 2026, à Québec.
+<!-- À COMPLÉTER : lien vers la page de l'événement -->
+
+## Résumé
+
+Profitons de cette période électorale pour évaluer la robustesse du système électorale québécois et demandons-nous: est-il possible de hacker une élection? Et, si oui, comment faire pour y parvenir? 
+
+Nous aborderons d'abord les techniques standards de hacking social qui exploitent la plus grande faille de vos systèmes et organisations: l'humain. Puis, nous soulèverons la question de l'ingérence étrangère et des opérations d'influence de masse.
+
+Et, finalement, nous tenterons d'évaluer la faisabilité de perturber les élections québécoises par un scénario d'attaque exotique basé sur le mécanisme quantum-like du "Laser Social" imaginé par le mathématicien russe Andrei Khrennikov.
+
+## Auteur
+
+### [Jérémy Viau-Trudel](https://www.linkedin.com/in/jvtrudel/) - Stratégie & Leadership des pratiques de sécurité | DevSecOps | Social Hacker
+
+<img src="https://media.licdn.com/dms/image/v2/D4E03AQECsDfKLjHphg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1712225837200?e=1790208000&v=beta&t=425EsRdyykoK2tKooibbjAeCbiP-m-zjMLnbCBpossE" alt="Jérémy Viau-Trudel" width="200" />
+
+Ayant une trajectoire atypique, Jérémy Viau-Trudel a participé à la recherche fondamentale de l'interaction **laser-molécules en champ intense et ultra-bref** jusqu'en 2016. À l'Université Laval, puis à l'Université Paris-Sud, il a mené des recherches sur les algorithmes numériques de résolution de l'équation de Schrödinger dépendant du temps à partir des méthodologies de la chimie computationnelle, ainsi que l'étude phénoménologique des mécanismes des dynamiques nucléaires et multi-électroniques typiques de ce régime d'interaction.
+
+Depuis septembre 2016, Jérémy est consultant TI **spécialiste Linux**, infrastructure (On-Prem, fournisseurs Cloud, Edge), DevOps, automatisation, IA, cybersécurité, pratiques modernes. Il intervient régulièrement sur des mandats DevSecOps.
+
+En décembre 2021, Jérémy a fondé noumanity, une compagnie qui se consacre à la recherche DeepTech.
+
+## noumanity
+
+<img src="https://raw.githubusercontent.com/noumanity/imagen/refs/heads/main/assets/logo/logo%20noumanity-color2.png" width="200" />
+
+> 👉 Zéro bullshit. Que de la preuve. 💪🧠❤️
+
+Groupe Innovation Numanity inc. ou, plus simplement, **noumanity** est un Studio DeepTech, le premier dans la ville de Québec et probablement le seul indépendant et auto-financé au Canada.
+
+**noumanity** se consacre à l'accélération du déploiement de technologies avancées à haute teneur scientifique.
+
+Via des collaborations multi-disciplinaires, **noumanity** participe à créer de nouvelles connaissances et à utiliser le savoir pour créer des technologies libres et ouvertes pour tous ceux et celles qui ont à coeur le bien de l'humanité.
+
+Les domaines de recherche Deeptech **noumanity** portent notamment sur:
+
+- les infrastructures souveraines résitientes et décentralisée. Notamment en participant au co-développement d'une plateforme en Santé Numérique au Cameroun avec l'université de Montréal, l'Institut Supérieur de la Recherche Scientifique et Médicale (Yaoundé) et NationTech (Wendake);
+- les technologies vertes: recyclage d'énergie résiduel des datacenters décentralisées et valorisation hybride de la bio-masse forestière à faible valeur commerciale ;
+- les usages de l'Intelligence Artificielle en recherche appliquées ;
+- recherche fondamentale en Intelligence Quantique (application des théories quantum-like de Khrennikov pour le développement de méthodes analogues à l'IA nativement sur des devices quantiques).
+
+
